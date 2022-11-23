@@ -20,7 +20,7 @@ their music taste. To create Verses, we utlize the Spotify API to provide our ap
 ### Screenshots
 
 ![image](https://user-images.githubusercontent.com/73492549/203645120-311ee7dc-fae9-4d3e-a6a0-4c9d4423394e.png)
-![image](https://user-images.githubusercontent.com/73492549/203644689-1c917ae4-26dc-4fba-a06e-59197b158874.png)
+![image](https://user-images.githubusercontent.com/73492549/203645490-da165d77-ee4e-4bc6-8260-44ba634ced1e.png)
 ![image](https://user-images.githubusercontent.com/73492549/203645086-af4e8a7c-00b2-4aa1-9d02-7a4a002ce008.png)
 ![image](https://user-images.githubusercontent.com/73492549/203644830-96103a66-fb77-41a7-a891-c6c87ddc01cc.png)
 
