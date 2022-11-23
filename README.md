@@ -6,11 +6,22 @@ Check out our DevPost Here: https://devpost.com/software/verses
 Verses is a music quiz app that allows users to test themselves and their friends on their music taste by creating a quiz that randomly generates questions on 
 their music taste. To create Verses, we utlize the Spotify API to provide our app with inforamation on the users current most listened to songs and artists, which are passed as parameters in one of our various question templates to continously generate new questions
 
-# Built With
+## Built With
 - React
 - Axios
 - Spotify API
 
-# Screenshots 
+## Screenshots and Demo
+
+
+### Demo
+[VersesDemo.webm](https://user-images.githubusercontent.com/73492549/203644479-4ae30bd9-cf9d-4e3e-840a-24c746030052.webm)
+
+### Screenshots
+
+![image](https://user-images.githubusercontent.com/73492549/203645120-311ee7dc-fae9-4d3e-a6a0-4c9d4423394e.png)
+![image](https://user-images.githubusercontent.com/73492549/203644689-1c917ae4-26dc-4fba-a06e-59197b158874.png)
+![image](https://user-images.githubusercontent.com/73492549/203645086-af4e8a7c-00b2-4aa1-9d02-7a4a002ce008.png)
+![image](https://user-images.githubusercontent.com/73492549/203644830-96103a66-fb77-41a7-a891-c6c87ddc01cc.png)
 
 
