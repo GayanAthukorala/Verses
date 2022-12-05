@@ -8,7 +8,9 @@ their music taste. To create Verses, we utlize the Spotify API to provide our ap
 
 ## Built With
 - React
+- Express
 - Axios
+- MongoDB
 - Spotify API
 
 ## Screenshots and Demo
