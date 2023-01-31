@@ -8,6 +8,7 @@ Verses is a music quiz app that allows users to test themselves and their friend
 ## Built With
 - React
 - Express
+- NodeJS
 - Axios
 - MongoDB
 - Spotify API
